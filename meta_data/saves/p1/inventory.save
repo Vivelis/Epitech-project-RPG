@@ -1,0 +1,8 @@
+1:name=armor
+1:shield=10
+1:durability=100
+1:texture_path=assets/sprites/0x72_DungeonTilesetII_v1.4/frames/knight_m_idle_anim_f0.png
+2:name=sword
+2:damages=10
+2:durability=100
+2:texture_path=assets/sprites/0x72_DungeonTilesetII_v1.4/frames/weapon_knight_sword.png1:name=armor
